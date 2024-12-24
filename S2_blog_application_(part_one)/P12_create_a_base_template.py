@@ -3,4 +3,4 @@
 # Introduction to template filter
 # Introduction to template tag
 # Introduction to static, block, and include tags
-# Creating a base template
+# Creating a base template #
